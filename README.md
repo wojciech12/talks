@@ -135,19 +135,17 @@ and Grafana.</b><br />
 
 <b>Monitoring, best practises with an example setup
 for a Python Application</b><br />
-12 Feburary 2018, <a href="http://pywaw.org/73/">PyWaw Meetup</a>, Warsaw
+12 Feburary 2018, <a href="http://pywaw.org/73/">PyWaw Meetup</a>, Warsaw -
 <a href="https://github.com/wojciech12/talk_pywroc_RED_metrics_with_prometheus_stack/blob/master/slides/index.pdf">slides </a> | <a href="https://github.com/wojciech12/talk_pywroc_RED_metrics_with_prometheus_stack">demo app</a> | <a href="http://pywaw.org/73/">recording</a>
 
 <b>Automatic bookkeeping with Machine Learning from SMACC.io</b><br />
 8 December, <a href="https://www.meetup.com/pl-PL/Wroclaw-SAP-Community-Meetup/events/244107394/">Wroclaw SAP Community Meetup</a>, Wrocław - <a href="https://www.slideshare.net/WojciechBarczyski/smacc-automatic-bookkeeping-with-ai">slides</a> (<a href="https://github.com/wojciech12/talk_smacc_automate_bookkeeping_with_ai">github</a>)
 
 <b>My experience in moving companies from X to Kuberenetes</b><br />
-5 December 2017, <a href="https://www.meetup.com/publiccloudpl/events/243543283/">Public Cloud User Group Meetup</a>, Warsaw
-<a href="https://github.com/wojciech12/talk_my_experience_in_moving_companies_to_kubernetes">slides</a> | <a href="https://www.youtube.com/watch?reload=9&amp;v=rxtUhPrmrhI">recording</a>
+5 December 2017, <a href="https://www.meetup.com/publiccloudpl/events/243543283/">Public Cloud User Group Meetup</a>, Warsaw - <a href="https://github.com/wojciech12/talk_my_experience_in_moving_companies_to_kubernetes">slides</a> | <a href="https://www.youtube.com/watch?reload=9&amp;v=rxtUhPrmrhI">recording</a>
 
 <b>Kubernetes for Software Developers</b><br />
-16 November 2017, <a href="http://pywaw.org/70/">PyWaw Meetup</a>, Warsaw
-<a href="https://github.com/wojciech12/talk_introduction_to_kubernetes_for_devs">slides</a> | <a href="https://github.com/wojciech12/talk_introduction_to_kubernetes_for_devs">demo app</a> | <a href="http://pywaw.org/70/">recording</a>
+16 November 2017, <a href="http://pywaw.org/70/">PyWaw Meetup</a>, Warsaw - <a href="https://github.com/wojciech12/talk_introduction_to_kubernetes_for_devs">slides</a> | <a href="https://github.com/wojciech12/talk_introduction_to_kubernetes_for_devs">demo app</a> | <a href="http://pywaw.org/70/">recording</a>
 
 <b>How to use Docker to start with any technology on your own.
 How we build software, what CI process and Jenkins are.</b><br />
