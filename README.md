@@ -4,6 +4,10 @@ My [talks](#talks) and [workshops](#workshops).
 
 ## Talks
 
+<b>Intro to Open Policy Agent</b><br />30 June 2022, <a href="https://www.meetup.com/software-circus/events/286666350/">Software Circus June Edition</a>, Amsterdam, Netherlands<br /><a href="">slides & code</a> - Upcoming
+
+<b>Adding policies to your Golang Apps with Open Policy Agent</b><br />28 June 2022, <a href="https://www.meetup.com/prague-golang-meetup/events/286541748/">Prague Golang Meetup #8</a>. Czechia<br /><a href="https://github.com/wojciech12/talk_policies_for_your_apps_with_OpenPolicyAgent">slides & code</a> - Upcoming
+
 <b>What a developer should know when building Golang Services for Kubernetes?</b><br>21 April 2022, <a href="https://www.meetup.com/gowroc/events/284506293/">GoWroc #40</a> -
 <a href="https://github.com/wojciech12/talk_k8s_what_should_every_dev_know">slides & code</a>
 
