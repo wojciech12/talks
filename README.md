@@ -4,6 +4,8 @@ My [talks](#talks) and [workshops](#workshops).
 
 ## Talks
 
+<b>TBA</b><br>8 Nov 2022, <a href="https://www.meetup.com/wrocpy/events/268303060/">Wroc.py</a>, Wrocław, Poland - <a href="">TBA</a>
+
 <b>Adding policies to your Golang App with Open Policy Agent</b><br />28 September 2022, <a href="https://cloudyna.net">Cloudyna</a>, Katowice, Poland - <a href="https://github.com/wojciech12/talk_policies_for_your_apps_with_OpenPolicyAgent/tree/cloudyna-2022">slides & code</a>
 
 <b>Wprowadzenie do Policy-as-a-Code z Open Policy Agent</b><br />23 September 2022, <a href="https://bitconf.pl">bITconf</a>, Bydgoszcz, Poland - <a href="https://github.com/wojciech12/talk_intro_OpenPolicyAgent">slides & code</a>
