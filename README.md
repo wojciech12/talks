@@ -6,7 +6,7 @@ My [talks](#talks) and [workshops](#workshops).
 
 <b>TBA</b><br />28 September 2022, <a href="https://cloudyna.net">Cloudyna</a>, Katowice, Poland (**upcoming**)
 
-<b>TBA</b><br />23 September 2022, <a href="https://bitconf.pl">bITconf</a>, Bydgoszcz, Poland (**upcoming**)
+<b>Wprowadzenie do Policy-as-a-Code z Open Policy Agent</b><br />23 September 2022, <a href="https://bitconf.pl">bITconf</a>, Bydgoszcz, Poland (**upcoming**)
 
 <b>Add policies to your Golang Apps with Open Policy Agent</b><br />7 July 2022, <a href="https://www.meetup.com/prague-golang-meetup/events/286541748/">GoWroc #42</a>, Wroclaw, Poland - <a href="https://github.com/wojciech12/talk_policies_for_your_apps_with_OpenPolicyAgent">slides & code</a>
 
