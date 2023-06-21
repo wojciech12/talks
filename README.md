@@ -170,6 +170,9 @@ How we build software, what CI process and Jenkins are.</b><br />
 
 Workshops / Trainings:
 
+<b>Golang Beginner Training</b> [EN]<br />
+2 June 2023, <a href="https://www.wsb.pl/english">WSB universities</a> - <a href="https://github.com/wojciech11/workshop_golang/">slides and manuals</a>
+
 <b>Cloud application administration at <a href="https://www.wsb.pl/english">WSB universities</a></b> [PL]<br />
 February 2022, <a href="https://github.com/wojciech11/se_cloud_app_administration_and_development">slides and manuals</a>
 
