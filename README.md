@@ -4,7 +4,7 @@ My [talks](#talks) and [workshops](#workshops).
 
 ## Talks
 
-<b>TBA</b><br>8 Nov 2022, <a href="https://www.meetup.com/wrocpy/events/268303060/">Wroc.py</a>, Wrocław, Poland - <a href="">TBA</a>
+<b>Monitoring for Golang App with Prometheus (and Grafana)</b><br />15 June 2023, <a href="https://www.meetup.com/gowroc/events/293828636/">GoWroc #48</a>, Wrocław, Poland - <a href="https://github.com/wojciech12/talk_monitoring_with_prometheus">slides & code</a>
 
 <b>Adding policies to your Golang App with Open Policy Agent</b><br />28 September 2022, <a href="https://cloudyna.net">Cloudyna</a>, Katowice, Poland - <a href="https://github.com/wojciech12/talk_policies_for_your_apps_with_OpenPolicyAgent/tree/cloudyna-2022">slides & code</a>
 
