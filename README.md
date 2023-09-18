@@ -4,6 +4,8 @@ My [talks](#talks) and [workshops](#workshops).
 
 ## Talks
 
+<b>Jak HashiCorp zatrząsł licencjami: awantura o Terraforma</b> - podcast<br/>8 September 2023, <a href="https://www.ctomorning.coffee">CTO Morning Coffee #41</a>, Poland, <a href="https://www.youtube.com/watch?v=f6d-rvKNb_w">recording</a>
+
 <b>Monitoring for Golang App with Prometheus (and Grafana)</b><br />15 June 2023, <a href="https://www.meetup.com/gowroc/events/293828636/">GoWroc #48</a>, Wrocław, Poland - <a href="https://github.com/wojciech12/talk_monitoring_with_prometheus">slides & code</a>
 
 <b>10 najlepszych praktyk dla Infrastructure-as-a-Code na przykładzie Terraforma [PL]</b><br />12 December 2022, <a href="https://architekturaikontenery.pl">Architektura i Kontenery</a> -
