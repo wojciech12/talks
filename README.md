@@ -4,9 +4,11 @@ My [talks](#talks) and [workshops](#workshops).
 
 ## Talks
 
+<b>10 najlepszych praktyk dla Infrastructure-as-a-Code na przykładzie OpenTofu/Terraforma</b><br />20 October, <a href="https://www.meetup.com/pl-PL/microsoft-azure-users-group-poland/events/296519673/">Microsoft Azure UG Poland, Wrocław #22</a>, Wrocław, Poland - slides
+
 <b>The OpenTofu initiative - past, present, and future goals</b><br />16 October 2023, <a href="https://www.meetup.com/aws-ug-wroclaw/events/296292620/">AWS User Group Wrocław Meetup</a>, Wrocław, Poland - <a href="https://github.com/wojciech12/talk_opentofu_past_present_and_future_goals/tree/master">slides</a>
 
-<b>Jak HashiCorp zatrząsł licencjami: awantura o Terraforma</b> - podcast<br/>8 September 2023, <a href="https://www.ctomorning.coffee">CTO Morning Coffee #41</a>, Poland, <a href="https://www.youtube.com/watch?v=f6d-rvKNb_w">recording</a>
+<b>Jak HashiCorp zatrząsł licencjami: awantura o Terraforma</b> - podcast<br/>8 September 2023, <a href="https://www.ctomorning.coffee">CTO Morning Coffee #41</a>, Poland - <a href="https://www.youtube.com/watch?v=f6d-rvKNb_w">recording</a>
 
 <b>Monitoring for Golang App with Prometheus (and Grafana)</b><br />15 June 2023, <a href="https://www.meetup.com/gowroc/events/293828636/">GoWroc #48</a>, Wrocław, Poland - <a href="https://github.com/wojciech12/talk_monitoring_with_prometheus">slides & code</a>
 
