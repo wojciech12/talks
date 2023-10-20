@@ -4,7 +4,7 @@ My [talks](#talks) and [workshops](#workshops).
 
 ## Talks
 
-<b>10 najlepszych praktyk dla Infrastructure-as-a-Code na przykładzie OpenTofu/Terraforma [PL]</b><br />20 October 2023, <a href="https://www.meetup.com/pl-PL/microsoft-azure-users-group-poland/events/296519673/">Microsoft Azure UG Poland, Wrocław #22</a>, Wrocław, Poland - <a href="https://github.com/wojciech12/talk_best_practices_for_infra_as_a_code_with_Terraform/">slides</a>
+<b>10 najlepszych praktyk dla Infrastructure-as-a-Code na przykładzie OpenTofu/Terraforma [PL]</b><br />20 October 2023, <a href="https://www.meetup.com/pl-PL/microsoft-azure-users-group-poland/events/296519673/">Microsoft Azure UG Poland Wrocław #22</a>, Wrocław, Poland - <a href="https://github.com/wojciech12/talk_best_practices_for_infra_as_a_code_with_Terraform/">slides</a>
 
 <b>The OpenTofu initiative - past, present, and future goals</b><br />16 October 2023, <a href="https://www.meetup.com/aws-ug-wroclaw/events/296292620/">AWS User Group Wrocław Meetup</a>, Wrocław, Poland - <a href="https://github.com/wojciech12/talk_opentofu_past_present_and_future_goals/tree/master">slides</a>
 
