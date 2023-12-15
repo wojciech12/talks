@@ -8,6 +8,8 @@ I am the VP of Engineering at Spacelift, a Cloud Native practitioner, system eng
 
 ## pl
 
+Wojciech Barczynski, VP of Engineering w Spacelift. Spacelift umożliwia zespołom wspólnie pracować z Infrastructure-as-a-Code w skali, podnosząc szybkość, efektywność, oraz bezpieczeństwo wprowadzanych zmian. Wcześniej, w Codility Wojciech prowadził dział platformy i infrastruktury oraz jako Head of Engineering współtworzył dwa siostrzane startupy Machine Learning FinTech - Hypatos.ai i SMACC.io. Doświadczenie z e-commerce zdobył w LykeHQ, a z rozległymi systemami rozproszonymi w Cloud&Heat
+
 Wojciech Barczynski, VP of Engineering w Spacelift.io, programista Golang i praktyk CloudNative oraz technologii chmurowych (AWS, GCP, oraz Azure). Wcześniej, w Codility prowadził dział platformy i infrastruktury, jako Head of Engineering współtworzył dwa siostrzane startupy Machine Learning FinTech - Hypatos.ai i SMACC.io. Doświadczenie z mobilnym e-commerce zdobył w LykeHQ, a z rozległymi systemami rozproszonymi w Cloud&Heat, a zaczął swoja karierę w SAP Research.
 
 Wojciech Barczynski, VP of Engineering w Spacelift.io. Spacelift pomaga zespołom wspólnie zarządzać infrastrukturą w chmurze, podnosząc szybkość, efektywność, oraz bezpieczeństwo wprowadzanych zmian. Większość kariery spędził w startupach i scale-upach. W Codility prowadził dział platformy i infrastruktury, jako Head of Engineering współtworzył dwa siostrzane startupy Machine Learning FinTech - Hypatos.ai i SMACC.io. Doświadczenie z mobilnym e-commerce zdobył w LykeHQ, a Cloud&Heat pokazało uroki hardware startupu. Wojciech zaczął swoja karierę w SAP Research.
