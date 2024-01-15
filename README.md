@@ -4,7 +4,7 @@ My [talks](#talks) and [workshops](#workshops).
 
 ## Talks
 
-<b>10 najlepszych praktyk dla Infrastructure-as-a-Code na przykładzie OpenTofu/Terraforma [PL]</b><br />20 October 2023, <a href="https://www.meetup.com/pl-PL/microsoft-azure-users-group-poland/events/296519673/">Microsoft Azure UG Poland Wrocław #22</a>, Wrocław, Poland - <a href="https://github.com/wojciech12/talk_best_practices_for_infra_as_a_code_with_Terraform/">slides & demo</a>
+<b>10 najlepszych praktyk dla Infrastructure-as-Code na przykładzie OpenTofu/Terraforma [PL]</b><br />20 October 2023, <a href="https://www.meetup.com/pl-PL/microsoft-azure-users-group-poland/events/296519673/">Microsoft Azure UG Poland Wrocław #22</a>, Wrocław, Poland - <a href="https://github.com/wojciech12/talk_best_practices_for_infra_as_a_code_with_Terraform/">slides & demo</a>
 
 <b>The OpenTofu initiative - past, present, and future goals</b><br />16 October 2023, <a href="https://www.meetup.com/aws-ug-wroclaw/events/296292620/">AWS User Group Wrocław Meetup</a>, Wrocław, Poland - <a href="https://github.com/wojciech12/talk_opentofu_past_present_and_future_goals/tree/master">slides & demo</a>
 
@@ -12,12 +12,12 @@ My [talks](#talks) and [workshops](#workshops).
 
 <b>Monitoring for Golang App with Prometheus (and Grafana)</b><br />15 June 2023, <a href="https://www.meetup.com/gowroc/events/293828636/">GoWroc #48</a>, Wrocław, Poland - <a href="https://github.com/wojciech12/talk_monitoring_with_prometheus">slides & code</a>
 
-<b>10 najlepszych praktyk dla Infrastructure-as-a-Code na przykładzie Terraforma [PL]</b><br />12 December 2022, <a href="https://architekturaikontenery.pl">Architektura i Kontenery</a> -
+<b>10 najlepszych praktyk dla Infrastructure-as-Code na przykładzie Terraforma [PL]</b><br />12 December 2022, <a href="https://architekturaikontenery.pl">Architektura i Kontenery</a> -
 <a href="https://github.com/wojciech12/talk_best_practices_for_infra_as_a_code_with_Terraform/tree/v1">slides</a>
 
 <b>Adding policies to your Golang App with Open Policy Agent</b><br />28 September 2022, <a href="https://cloudyna.net">Cloudyna</a>, Katowice, Poland - <a href="https://github.com/wojciech12/talk_policies_for_your_apps_with_OpenPolicyAgent/tree/cloudyna-2022">slides & code</a>
 
-<b>Wprowadzenie do Policy-as-a-Code z Open Policy Agent</b><br />23 September 2022, <a href="https://bitconf.pl">bITconf</a>, Bydgoszcz, Poland - <a href="https://github.com/wojciech12/talk_intro_OpenPolicyAgent">slides & code</a>
+<b>Wprowadzenie do Policy-as-Code z Open Policy Agent</b><br />23 September 2022, <a href="https://bitconf.pl">bITconf</a>, Bydgoszcz, Poland - <a href="https://github.com/wojciech12/talk_intro_OpenPolicyAgent">slides & code</a>
 
 <b>Add policies to your Golang Apps with Open Policy Agent</b><br />7 July 2022, <a href="https://www.meetup.com/prague-golang-meetup/events/286541748/">GoWroc #42</a>, Wroclaw, Poland - <a href="https://github.com/wojciech12/talk_policies_for_your_apps_with_OpenPolicyAgent">slides & code</a>
 
