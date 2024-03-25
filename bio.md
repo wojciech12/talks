@@ -6,6 +6,8 @@ I am the VP of Engineering at Spacelift, a Golang developer, and a CloudNative p
 
 I am the VP of Engineering at Spacelift, a Cloud Native practitioner, system engineer with many years of experience, and an Infrastructure-as-a-Code proponent. Our company was one of the first supporters to the OpenTofu initiative and worked on bringing the project under the Linux Foundation. Before Spacelift, I worked and led engineering projects at Codility (a SaaS for unbiased remote tech hiring), Hypatos/SMACC (Fintech/ML automation XaaS tools), and LykeHQ (fashion e-commerce). In my free time, I help to organize the Golang Warsaw Meetup.
 
+Wojciech Barczynski is the VP of Engineering at Spacelift. He builds and leads the engineering organization behind Spacelift, an Infrastructure-as-Code automation and orchestration platform. Wojciech is also a member of the OpenTofu steering committee. Before joining Spacelift, he worked at both B2B and B2C  startups, from machine learning Fintechs to fashion marketplaces.
+
 ## pl
 
 Wojciech Barczynski, VP of Engineering w Spacelift. Spacelift umożliwia zespołom wspólnie pracować z Infrastructure-as-a-Code w skali, podnosząc szybkość, efektywność, oraz bezpieczeństwo wprowadzanych zmian. Wcześniej, w Codility Wojciech prowadził dział platformy i infrastruktury oraz jako Head of Engineering współtworzył dwa siostrzane startupy Machine Learning FinTech - Hypatos.ai i SMACC.io. Doświadczenie z e-commerce zdobył w LykeHQ, a z rozległymi systemami rozproszonymi w Cloud&Heat
