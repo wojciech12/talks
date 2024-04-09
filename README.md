@@ -47,12 +47,7 @@ My [talks](#talks) and [workshops](#workshops).
 
 <b>From RPA do Cognitive Automation with SMACC.io and Hypatos.ai</b><br />
 24 September 2019, <a href="https://www.meetup.com/Automate-NOW-Warsaw-1/events/262124662/">AutomateNOW Meetup</a>
-Warsaw, Poland<br /><a href="https://github.com/wojciech12/talk_from_rpa_to_cognitive_automation">slides</a>
-
-<b>From RPA do Cognitive Automation with SMACC.io and Hypatos.ai</b><br />
-24 September 2019, <a href="https://www.meetup.com/Automate-NOW-Warsaw-1/events/262124662/">AutomateNOW Meetup</a>
-Warsaw, Poland
-<a href="https://github.com/wojciech12/talk_from_rpa_to_cognitive_automation">slides</a>
+Warsaw, Poland - <a href="https://github.com/wojciech12/talk_from_rpa_to_cognitive_automation">slides</a>
 
 <b>Best Practices for introducing Kubernetes and CN</b><br />
 20 September 2019, <a href="https://www.bitconf.pl/">bITconf</a>
