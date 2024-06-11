@@ -4,6 +4,8 @@ My [talks](#talks) and [workshops](#workshops).
 
 ## Talks
 
+<b>Secure and effective GitOps and Infrastructure-as-Code with OpenTofu</b><br />11 June 2024, <a href="https://www.codeeurope.pl/en/speakers/wojciech-barczynski">Code Europe</a>, Cracow, Poland - <a href="https://github.com/wojciech12/talk_codeeurope_opentofu">slides</a>
+
 <b>O infrastrukturze, IaC, OpenTofu i Spacelifcie</b> [PL]<br />26 May 2024, <a href="https://www.youtube.com/playlist?list=PLrOllSwgQA845ch4c0fkMUEwFmJJJGJKi">Taby i spacje — video podcast</a>, Wrocław, Poland - <a href="https://www.youtube.com/watch?v=fiUtPdIyQY0">recording</a>
 
 <b>10 OpenTofu best practices for Naver Cloud Platform</b><br />19 March 2024, <a href="https://www.meetup.com/navercloud-user-community/events/299190207/">NCUC 제 5회 Online MeetUp</a>, Seoul, Korea - <a href="https://github.com/wojciech12/talk_best_practices_for_opentofu_with_navercloud">slides & demo</a>
