@@ -1,6 +1,6 @@
 # Talks & Workshops
 
-My [talks](#talks) and [workshops](#workshops).
+My [talks](#talks), [Media Features](#mediafeatures), and [workshops](#workshops).
 
 ## Talks
 
@@ -180,6 +180,8 @@ How we build software, what CI process and Jenkins are.</b><br />
 
 <b>Openstack - wirtualizacja i automatyzacja IT</b><br />
 7 July 2015, <a href="https://www.meetup.com/wrocpy/events/222988812/">Wroc.py Meetup</a>, Wroclaw - <a href="https://www.slideshare.net/slideshow/embed_code/key/MnYkm0NXW7JATB">slides</a>
+
+## Media Features
 
 ## Workshops
 
