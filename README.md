@@ -192,6 +192,7 @@ Articles/Blogs:
 Podcast/Interview:
 
 - TBA
+- kubefm - https://kube.fm/modern-infrastructure-wojciech
 
 ## Workshops
 
