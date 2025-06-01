@@ -1,6 +1,6 @@
 # Talks & Workshops
 
-My [talks](#talks), [Media Features](#media%20features), and [workshops](#workshops).
+My [talks](#talks), [Media Features](#media-features), and [workshops](#workshops).
 
 ## Talks
 
