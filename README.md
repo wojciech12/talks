@@ -1,6 +1,6 @@
 # Talks & Workshops
 
-My [talks](#talks), [Media Features](#media-features), and [workshops](#workshops).
+My [talks](#talks), [media features](#media-features), and [workshops](#workshops).
 
 ## Talks
 
@@ -182,6 +182,10 @@ How we build software, what CI process and Jenkins are.</b><br />
 7 July 2015, <a href="https://www.meetup.com/wrocpy/events/222988812/">Wroc.py Meetup</a>, Wroclaw - <a href="https://www.slideshare.net/slideshow/embed_code/key/MnYkm0NXW7JATB">slides</a>
 
 ## Media Features
+
+- "OpenTofu Turns One with OpenTofu 1.9.0", TheNewStack - 13 January 2025, <a href="https://thenewstack.io/opentofu-turns-one-with-opentofu-1-9-0/">link</a>
+- "Debunking the myths: OpenTofu is enterprise ready and easier to adopt than you think", TFIR - 23 October 2024, <a href="https://tfir.io/debunking-the-myths-opentofu-is-enterprise-ready-and-easier-to-adopt-than-you-think/">link</a>
+- "Microsoft's Azure Kubernetes Service mucked my cluster!", The Register -  8 August 2018, <a href="https://www.theregister.com/2018/08/08/microsoft_azure_kubernetes_service/">link</a> 
 
 ## Workshops
 
