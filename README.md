@@ -4,6 +4,9 @@ My [talks](#talks), [media features](#media-features), and [workshops](#workshop
 
 ## Talks
 
+<b>AI and Infrasture-as-Code</b><br />
+31 July 2025, <a href="https://lu.ma/ai-native-pe?e=calev-Wq6lcSOJ9qvdfx9">AI-Native Platform Engineering Online : "AI-Native Enterprise Architecture"</a> - <a href="https://github.com/wojciech12/talk_ai_and_opentofu">slides</a>
+
 <b>Secure and effective GitOps and Infrastructure-as-Code with OpenTofu</b><br />11 June 2024, <a href="https://www.codeeurope.pl/en/speakers/wojciech-barczynski">Code Europe</a>, Cracow, Poland - <a href="https://github.com/wojciech12/talk_codeeurope_opentofu">slides</a>
 
 <b>O infrastrukturze, IaC, OpenTofu i Spacelifcie</b> [PL]<br />26 May 2024, <a href="https://www.youtube.com/playlist?list=PLrOllSwgQA845ch4c0fkMUEwFmJJJGJKi">Taby i spacje — video podcast</a>, Wrocław, Poland - <a href="https://www.youtube.com/watch?v=fiUtPdIyQY0">recording</a>
