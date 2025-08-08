@@ -4,6 +4,9 @@ My [talks](#talks), [media features](#media-features), and [workshops](#workshop
 
 ## Talks
 
+<b>Accelerating Go Development with Claude Code: A Pragmatic Approach</b><br />
+7 August 2025, <a href="https://www.meetup.com/pl-PL/golang-warsaw/events/310133725/?eventOrigin=group_events_list">Golang Meetup #64</a>, Warsaw, Poland - <a href="https://github.com/wojciech12/template_project_go">code</a>|<a href="https://github.com/wojciech12/template_project_go/tree/master/slides">slides</a>
+
 <b>AI and Infrasture-as-Code</b><br />
 31 July 2025, <a href="https://lu.ma/ai-native-pe?e=calev-Wq6lcSOJ9qvdfx9">AI-Native Platform Engineering Online : "AI-Native Enterprise Architecture"</a> - <a href="https://github.com/wojciech12/talk_ai_and_opentofu">slides</a>
 
