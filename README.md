@@ -4,6 +4,9 @@ My [talks](#talks), [media features](#media-features), and [workshops](#workshop
 
 ## Talks
 
+<b>Accelerating Go Development with Claude Code + Open Floor Discussion</b><br />
+16 September 2025, <a href="https://www.meetup.com/pl-PL/gowroc/events/310683270">GoWroc Meetup #59</a>, Wroclaw, Poland - <a href="https://github.com/wojciech12/template_project_go">code</a>|<a href="https://github.com/wojciech12/template_project_go/tree/master/slides">slides</a>
+
 <b>Accelerating Go Development with Claude Code: A Pragmatic Approach</b><br />
 7 August 2025, <a href="https://www.meetup.com/pl-PL/golang-warsaw/events/310133725/?eventOrigin=group_events_list">Golang Meetup #64</a>, Warsaw, Poland - <a href="https://github.com/wojciech12/template_project_go">code</a>|<a href="https://github.com/wojciech12/template_project_go/tree/master/slides">slides</a>
 
